@@ -14,7 +14,7 @@ public class ParseoJSON {
             "                \"actor_id\": \"1001\",\n" +
             "                \"author_name\": \"Jane Doe\",\n" +
             "                \"post_title\": \"How to parse JSON in Java\",\n" +
-            "                \"comments\": '[\"Esto es un primer cometario\", \"Y esto un segundo\"]',\n" +
+            "                \"comments\": '[\"Esto es un primer cometario\", \"Y esto un segundo.\"]',\n" +
             "                \"time_of_post\": \"1234567890\"\n" +
             "            }\n" +
             "    ]\n" +
